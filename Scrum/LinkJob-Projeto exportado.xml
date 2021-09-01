@@ -1,0 +1,3803 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<export version='7.54 Pro'>
+  <project id='186988'>
+    <pkey>LINKJOB</pkey>
+    <endDate>2022-02-19 00:00:00.0</endDate>
+    <todoDate>2021-08-30 12:22:17.0</todoDate>
+    <startDate>2021-09-01 00:00:00.0</startDate>
+    <lastUpdated>2021-08-30 13:12:48.0</lastUpdated>
+    <dateCreated>2021-08-30 12:22:17.0</dateCreated>
+    <planningPokerGameType>1</planningPokerGameType>
+    <name><![CDATA[LinkJob]]></name>
+    <description><![CDATA[O objetivo do sistema é ser uma ponte entre empresas e pessoas que buscam por trabalho.
+
+O sistema permite o relacionamento inicial entre trabalhadores e empresas. O sistema traz ao mercado, de forma gratuita, um meio de ligação profissional entre essas pessoas. O diferencial da plataforma perante as demais redes sociais é a restrição de conteúdo divulgado e consumido, restringindo o público alvo. O sistema garante, por meio de revisões contínuas, os direitos sociais e éticos da sociedade.]]></description>
+    <preferences id='31506'>
+      <hidden>true</hidden>
+      <timezone>America/Sao_Paulo</timezone>
+      <hideWeekend>false</hideWeekend>
+      <noEstimation>false</noEstimation>
+      <autoDoneStory>false</autoDoneStory>
+      <autoDoneFeature>false</autoDoneFeature>
+      <sprintReviewHour>14:00</sprintReviewHour>
+      <dailyMeetingHour>11:00</dailyMeetingHour>
+      <limitUrgentTasks>0</limitUrgentTasks>
+      <autoInReviewStory>false</autoInReviewStory>
+      <displaySprintGoal>false</displaySprintGoal>
+      <assignOnBeginTask>true</assignOnBeginTask>
+      <displayUrgentTasks>true</displayUrgentTasks>
+      <assignOnCreateTask>false</assignOnCreateTask>
+      <sprintPlanningHour>9:00</sprintPlanningHour>
+      <releasePlanningHour>9:00</releasePlanningHour>
+      <displayRecurrentTasks>true</displayRecurrentTasks>
+      <sprintRetrospectiveHour>16:00</sprintRetrospectiveHour>
+      <estimatedSprintsDuration>14</estimatedSprintsDuration>
+      <autoCreateTaskOnEmptyStory>false</autoCreateTaskOnEmptyStory>
+      <stakeHolderRestrictedViews />
+    </preferences>
+    <teams>
+      <team uid='85201a9215c491363439753a53dadc50'>
+        <velocity>0</velocity>
+        <dateCreated>2021-08-30 01:30:50.0</dateCreated>
+        <lastUpdated>2021-08-30 01:30:50.0</lastUpdated>
+        <name><![CDATA[Nucorp Team]]></name>
+        <description><![CDATA[]]></description>
+        <scrumMasters>
+          <user uid='be23e2881407d35e22b75938f123857f' />
+        </scrumMasters>
+        <members>
+          <user uid='be23e2881407d35e22b75938f123857f'>
+            <id>73240</id>
+            <email>nuriancoelho@hotmail.com</email>
+            <enabled>true</enabled>
+            <username>nurianm</username>
+            <password>passwordDefinedInIdp</password>
+            <lastLogin>2021-08-30 01:30:00.0</lastLogin>
+            <dateCreated>2021-08-30 01:18:51.0</dateCreated>
+            <lastUpdated>2021-08-30 12:22:17.0</lastUpdated>
+            <accountLocked>false</accountLocked>
+            <accountExpired>false</accountExpired>
+            <passwordExpired>false</passwordExpired>
+            <accountExternal>true</accountExternal>
+            <lastName><![CDATA[Coelho]]></lastName>
+            <firstName><![CDATA[Nurian]]></firstName>
+            <preferences id='73245'>
+              <menu planning='3' backlog='2' feature='5' project='1' taskBoard='4' />
+              <language>en</language>
+              <activity>Student</activity>
+              <filterTask>allTasks</filterTask>
+              <colorScheme />
+              <needsEmailValidation>false</needsEmailValidation>
+              <displayReleaseNotes>false</displayReleaseNotes>
+              <displayWhatsNew>false</displayWhatsNew>
+              <lastProjectOpened>LINKJOB</lastProjectOpened>
+              <emailsSettingsData />
+              <displayWelcomeTour>true</displayWelcomeTour>
+              <lastReadActivities>2021-08-30 01:18:51.0</lastReadActivities>
+              <displayFullProjectTour>true</displayFullProjectTour>
+              <widgets>
+                <widget>
+                  <position>1</position>
+                  <widgetDefinitionId>tasks</widgetDefinitionId>
+                  <settingsData><![CDATA[]]></settingsData>
+                </widget>
+                <widget>
+                  <position>2</position>
+                  <widgetDefinitionId>feed</widgetDefinitionId>
+                  <settingsData><![CDATA[{"feeds":[{"url":"https://www.icescrum.com/blog/feed/","title":"iceScrum","selected":true}]}]]></settingsData>
+                </widget>
+                <widget>
+                  <position>3</position>
+                  <widgetDefinitionId>notes</widgetDefinitionId>
+                  <settingsData><![CDATA[{"text":"Bienvenue sur iceScrum ! Voici votre page personnelle où vous pouvez ajouter vos propres widgets. Celui-ci vous permet de prendre des notes. Essayez de modifier ce texte !","text_html":"<p>Bienvenue sur iceScrum ! Voici votre page personnelle où vous pouvez ajouter vos propres widgets. Celui-ci vous permet de prendre des notes. Essayez de modifier ce texte !<\u002fp>"}]]></settingsData>
+                </widget>
+              </widgets>
+            </preferences>
+            <teams>
+              <team uid='85201a9215c491363439753a53dadc50' />
+            </teams>
+            <moods />
+          </user>
+        </members>
+        <owner>
+          <user uid='be23e2881407d35e22b75938f123857f'>
+            <id>73240</id>
+            <email>nuriancoelho@hotmail.com</email>
+            <enabled>true</enabled>
+            <username>nurianm</username>
+            <password>passwordDefinedInIdp</password>
+            <lastLogin>2021-08-30 01:30:00.0</lastLogin>
+            <dateCreated>2021-08-30 01:18:51.0</dateCreated>
+            <lastUpdated>2021-08-30 12:22:17.0</lastUpdated>
+            <accountLocked>false</accountLocked>
+            <accountExpired>false</accountExpired>
+            <passwordExpired>false</passwordExpired>
+            <accountExternal>true</accountExternal>
+            <lastName><![CDATA[Coelho]]></lastName>
+            <firstName><![CDATA[Nurian]]></firstName>
+            <preferences id='73245'>
+              <menu planning='3' backlog='2' feature='5' project='1' taskBoard='4' />
+              <language>en</language>
+              <activity>Student</activity>
+              <filterTask>allTasks</filterTask>
+              <colorScheme />
+              <needsEmailValidation>false</needsEmailValidation>
+              <displayReleaseNotes>false</displayReleaseNotes>
+              <displayWhatsNew>false</displayWhatsNew>
+              <lastProjectOpened>LINKJOB</lastProjectOpened>
+              <emailsSettingsData />
+              <displayWelcomeTour>true</displayWelcomeTour>
+              <lastReadActivities>2021-08-30 01:18:51.0</lastReadActivities>
+              <displayFullProjectTour>true</displayFullProjectTour>
+              <widgets>
+                <widget>
+                  <position>1</position>
+                  <widgetDefinitionId>tasks</widgetDefinitionId>
+                  <settingsData><![CDATA[]]></settingsData>
+                </widget>
+                <widget>
+                  <position>2</position>
+                  <widgetDefinitionId>feed</widgetDefinitionId>
+                  <settingsData><![CDATA[{"feeds":[{"url":"https://www.icescrum.com/blog/feed/","title":"iceScrum","selected":true}]}]]></settingsData>
+                </widget>
+                <widget>
+                  <position>3</position>
+                  <widgetDefinitionId>notes</widgetDefinitionId>
+                  <settingsData><![CDATA[{"text":"Bienvenue sur iceScrum ! Voici votre page personnelle où vous pouvez ajouter vos propres widgets. Celui-ci vous permet de prendre des notes. Essayez de modifier ce texte !","text_html":"<p>Bienvenue sur iceScrum ! Voici votre page personnelle où vous pouvez ajouter vos propres widgets. Celui-ci vous permet de prendre des notes. Essayez de modifier ce texte !<\u002fp>"}]]></settingsData>
+                </widget>
+              </widgets>
+            </preferences>
+            <teams>
+              <team uid='85201a9215c491363439753a53dadc50' />
+            </teams>
+            <moods />
+          </user>
+        </owner>
+      </team>
+    </teams>
+    <productOwners>
+      <user uid='be23e2881407d35e22b75938f123857f'>
+        <id>73240</id>
+        <email>nuriancoelho@hotmail.com</email>
+        <enabled>true</enabled>
+        <username>nurianm</username>
+        <password>passwordDefinedInIdp</password>
+        <lastLogin>2021-08-30 01:30:00.0</lastLogin>
+        <dateCreated>2021-08-30 01:18:51.0</dateCreated>
+        <lastUpdated>2021-08-30 12:22:17.0</lastUpdated>
+        <accountLocked>false</accountLocked>
+        <accountExpired>false</accountExpired>
+        <passwordExpired>false</passwordExpired>
+        <accountExternal>true</accountExternal>
+        <lastName><![CDATA[Coelho]]></lastName>
+        <firstName><![CDATA[Nurian]]></firstName>
+        <preferences id='73245'>
+          <menu planning='3' backlog='2' feature='5' project='1' taskBoard='4' />
+          <language>en</language>
+          <activity>Student</activity>
+          <filterTask>allTasks</filterTask>
+          <colorScheme />
+          <needsEmailValidation>false</needsEmailValidation>
+          <displayReleaseNotes>false</displayReleaseNotes>
+          <displayWhatsNew>false</displayWhatsNew>
+          <lastProjectOpened>LINKJOB</lastProjectOpened>
+          <emailsSettingsData />
+          <displayWelcomeTour>true</displayWelcomeTour>
+          <lastReadActivities>2021-08-30 01:18:51.0</lastReadActivities>
+          <displayFullProjectTour>true</displayFullProjectTour>
+          <widgets>
+            <widget>
+              <position>1</position>
+              <widgetDefinitionId>tasks</widgetDefinitionId>
+              <settingsData><![CDATA[]]></settingsData>
+            </widget>
+            <widget>
+              <position>2</position>
+              <widgetDefinitionId>feed</widgetDefinitionId>
+              <settingsData><![CDATA[{"feeds":[{"url":"https://www.icescrum.com/blog/feed/","title":"iceScrum","selected":true}]}]]></settingsData>
+            </widget>
+            <widget>
+              <position>3</position>
+              <widgetDefinitionId>notes</widgetDefinitionId>
+              <settingsData><![CDATA[{"text":"Bienvenue sur iceScrum ! Voici votre page personnelle où vous pouvez ajouter vos propres widgets. Celui-ci vous permet de prendre des notes. Essayez de modifier ce texte !","text_html":"<p>Bienvenue sur iceScrum ! Voici votre page personnelle où vous pouvez ajouter vos propres widgets. Celui-ci vous permet de prendre des notes. Essayez de modifier ce texte !<\u002fp>"}]]></settingsData>
+            </widget>
+          </widgets>
+        </preferences>
+        <teams>
+          <team uid='85201a9215c491363439753a53dadc50' />
+        </teams>
+        <moods />
+      </user>
+    </productOwners>
+    <stakeHolders />
+    <features>
+      <feature uid='1'>
+        <type>0</type>
+        <rank>1</rank>
+        <color>#0067e8</color>
+        <value>2</value>
+        <todoDate>2021-08-30 12:26:03.0</todoDate>
+        <doneDate />
+        <tags><![CDATA[[]]]></tags>
+        <name><![CDATA[Administração]]></name>
+        <notes><![CDATA[]]></notes>
+        <description><![CDATA[Administração e moderação]]></description>
+        <stories>
+          <story uid='11' />
+          <story uid='12' />
+          <story uid='30' />
+          <story uid='31' />
+          <story uid='32' />
+          <story uid='33' />
+          <story uid='34' />
+        </stories>
+        <comments />
+        <activities />
+        <attachments />
+      </feature>
+      <feature uid='2'>
+        <type>0</type>
+        <rank>2</rank>
+        <color>#d00265</color>
+        <value>4</value>
+        <todoDate>2021-08-30 12:26:20.0</todoDate>
+        <doneDate />
+        <tags><![CDATA[[]]]></tags>
+        <name><![CDATA[Design]]></name>
+        <notes><![CDATA[]]></notes>
+        <description><![CDATA[Design UX/UI]]></description>
+        <stories>
+          <story uid='13' />
+        </stories>
+        <comments />
+        <activities />
+        <attachments />
+      </feature>
+      <feature uid='3'>
+        <type>0</type>
+        <rank>3</rank>
+        <color>#bd10e0</color>
+        <value>3</value>
+        <todoDate>2021-08-30 12:26:27.0</todoDate>
+        <doneDate />
+        <tags><![CDATA[[]]]></tags>
+        <name><![CDATA[Desenvolvimento Frontend]]></name>
+        <notes><![CDATA[]]></notes>
+        <description><![CDATA[Programação frontend]]></description>
+        <stories>
+          <story uid='14' />
+          <story uid='15' />
+          <story uid='16' />
+          <story uid='17' />
+          <story uid='18' />
+          <story uid='19' />
+        </stories>
+        <comments />
+        <activities />
+        <attachments />
+      </feature>
+      <feature uid='4'>
+        <type>0</type>
+        <rank>4</rank>
+        <color>#50e3c2</color>
+        <value>3</value>
+        <todoDate>2021-08-30 12:26:36.0</todoDate>
+        <doneDate />
+        <tags><![CDATA[[]]]></tags>
+        <name><![CDATA[Desenvolvimento Backend]]></name>
+        <notes><![CDATA[]]></notes>
+        <description><![CDATA[Programação backend]]></description>
+        <stories>
+          <story uid='20' />
+          <story uid='21' />
+          <story uid='22' />
+          <story uid='23' />
+          <story uid='24' />
+          <story uid='25' />
+        </stories>
+        <comments />
+        <activities />
+        <attachments />
+      </feature>
+      <feature uid='5'>
+        <type>0</type>
+        <rank>5</rank>
+        <color>#8b572a</color>
+        <value>5</value>
+        <todoDate>2021-08-30 12:26:44.0</todoDate>
+        <doneDate />
+        <tags><![CDATA[[]]]></tags>
+        <name><![CDATA[Testes]]></name>
+        <notes><![CDATA[]]></notes>
+        <description><![CDATA[Testes do sistema]]></description>
+        <stories>
+          <story uid='26' />
+          <story uid='27' />
+        </stories>
+        <comments />
+        <activities />
+        <attachments />
+      </feature>
+      <feature uid='6'>
+        <type>0</type>
+        <rank>6</rank>
+        <color>#434145</color>
+        <value>6</value>
+        <todoDate>2021-08-30 12:26:58.0</todoDate>
+        <doneDate />
+        <tags><![CDATA[[]]]></tags>
+        <name><![CDATA[Deploy]]></name>
+        <notes><![CDATA[]]></notes>
+        <description><![CDATA[Publicação do sistema]]></description>
+        <stories>
+          <story uid='28' />
+          <story uid='29' />
+        </stories>
+        <comments />
+        <activities />
+        <attachments />
+      </feature>
+    </features>
+    <actors />
+    <stories />
+    <releases>
+      <release id='186998'>
+        <state>2</state>
+        <endDate>2022-02-19 00:00:00.0</endDate>
+        <todoDate>2021-08-30 13:12:48.0</todoDate>
+        <doneDate />
+        <startDate>2021-09-01 00:00:00.0</startDate>
+        <orderNumber>1</orderNumber>
+        <lastUpdated>2021-08-30 13:24:27.0</lastUpdated>
+        <dateCreated>2021-08-30 13:12:48.0</dateCreated>
+        <inProgressDate>2021-08-30 13:12:48.0</inProgressDate>
+        <firstSprintIndex>1</firstSprintIndex>
+        <name><![CDATA[LinkJob Planner]]></name>
+        <goal><![CDATA[]]></goal>
+        <vision><![CDATA[]]></vision>
+        <description><![CDATA[]]></description>
+        <sprints>
+          <sprint id='186999'>
+            <state>1</state>
+            <endDate>2021-09-14 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>3.0</capacity>
+            <todoDate>2021-08-30 13:13:04.0</todoDate>
+            <doneDate />
+            <startDate>2021-09-01 00:00:00.0</startDate>
+            <orderNumber>1</orderNumber>
+            <lastUpdated>2021-08-30 13:27:41.0</lastUpdated>
+            <dateCreated>2021-08-30 13:13:04.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[Criar diagramas UML]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='30'>
+                <type>0</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>1.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:13:35.0</plannedDate>
+                <acceptedDate>2021-08-30 13:09:14.0</acceptedDate>
+                <todoDate>2021-08-30 13:09:14.0</todoDate>
+                <lastUpdated>2021-08-30 13:13:35.0</lastUpdated>
+                <dateCreated>2021-08-30 13:09:14.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 13:09:14.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:13:28.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Criação Diagramas Casos de uso]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='1' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:09:14.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:09:14.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Criação Diagramas Casos de uso]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469451</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:09:14.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:09:14.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagramas Casos de uso]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[1]]></beforeValue>
+                    <afterValue><![CDATA[2]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469451</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:13:28.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:13:28.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagramas Casos de uso]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[1]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469451</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:13:28.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:13:28.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagramas Casos de uso]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469451</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:13:35.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:13:35.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagramas Casos de uso]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[186999]]></afterValue>
+                    <afterLabel><![CDATA[R1S1]]></afterLabel>
+                    <parentRef>469451</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:13:35.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:13:35.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagramas Casos de uso]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469451</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='32'>
+                <type>0</type>
+                <rank>2</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>1.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:14:41.0</plannedDate>
+                <acceptedDate>2021-08-30 13:10:21.0</acceptedDate>
+                <todoDate>2021-08-30 13:10:21.0</todoDate>
+                <lastUpdated>2021-08-30 13:14:41.0</lastUpdated>
+                <dateCreated>2021-08-30 13:10:21.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 13:10:21.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:14:37.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Criação Diagrama de Classes]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='1' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:10:21.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:10:21.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Criação Diagrama de Classes]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469453</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:10:21.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:10:21.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Classes]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[1]]></beforeValue>
+                    <afterValue><![CDATA[2]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469453</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:14:37.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:14:37.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagrama de Classes]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[1]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469453</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:14:37.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:14:37.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Classes]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469453</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:14:41.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:14:41.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagrama de Classes]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[186999]]></afterValue>
+                    <afterLabel><![CDATA[R1S1]]></afterLabel>
+                    <parentRef>469453</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:14:41.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:14:41.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Classes]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469453</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='33'>
+                <type>3</type>
+                <rank>3</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>1.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:14:53.0</plannedDate>
+                <acceptedDate>2021-08-30 13:10:39.0</acceptedDate>
+                <todoDate>2021-08-30 13:10:39.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:41.0</lastUpdated>
+                <dateCreated>2021-08-30 13:10:39.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 13:10:39.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:14:51.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Criação Diagrama de Sequencia]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='1' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:10:39.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:10:39.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Criação Diagrama de Sequencia]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469454</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:10:39.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:10:39.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Sequencia]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[1]]></beforeValue>
+                    <afterValue><![CDATA[2]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469454</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:14:51.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:14:51.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagrama de Sequencia]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[1]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469454</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:14:51.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:14:51.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Sequencia]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469454</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:14:53.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:14:53.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagrama de Sequencia]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[186999]]></afterValue>
+                    <afterLabel><![CDATA[R1S1]]></afterLabel>
+                    <parentRef>469454</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:14:53.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:14:53.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Sequencia]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469454</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:27:41.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:27:41.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagrama de Sequencia]]></label>
+                    <field><![CDATA[type]]></field>
+                    <beforeValue><![CDATA[0]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469454</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+          <sprint id='187000'>
+            <state>1</state>
+            <endDate>2021-09-28 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>3.0</capacity>
+            <todoDate>2021-08-30 13:15:08.0</todoDate>
+            <doneDate />
+            <startDate>2021-09-15 00:00:00.0</startDate>
+            <orderNumber>2</orderNumber>
+            <lastUpdated>2021-08-30 13:27:57.0</lastUpdated>
+            <dateCreated>2021-08-30 13:15:08.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='31'>
+                <type>0</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>1.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:15:25.0</plannedDate>
+                <acceptedDate>2021-08-30 13:09:46.0</acceptedDate>
+                <todoDate>2021-08-30 13:09:46.0</todoDate>
+                <lastUpdated>2021-08-30 13:15:25.0</lastUpdated>
+                <dateCreated>2021-08-30 13:09:46.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 13:09:46.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:15:23.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Criação Diagrama de Atividades]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='1' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:09:46.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:09:46.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Criação Diagrama de Atividades]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469452</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:09:46.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:09:46.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Atividades]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[1]]></beforeValue>
+                    <afterValue><![CDATA[2]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469452</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:23.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:23.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagrama de Atividades]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[1]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469452</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:23.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:23.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Atividades]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469452</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:25.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:25.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagrama de Atividades]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187000]]></afterValue>
+                    <afterLabel><![CDATA[R1S2]]></afterLabel>
+                    <parentRef>469452</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:25.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:25.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Atividades]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469452</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='34'>
+                <type>0</type>
+                <rank>2</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>1.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:15:35.0</plannedDate>
+                <acceptedDate>2021-08-30 13:10:59.0</acceptedDate>
+                <todoDate>2021-08-30 13:10:59.0</todoDate>
+                <lastUpdated>2021-08-30 13:15:35.0</lastUpdated>
+                <dateCreated>2021-08-30 13:10:59.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 13:10:59.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:15:33.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Criação Diagrama de Implantação]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='1' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:10:59.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:10:59.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Criação Diagrama de Implantação]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469455</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:10:59.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:10:59.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Implantação]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[1]]></beforeValue>
+                    <afterValue><![CDATA[2]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469455</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:33.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:33.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagrama de Implantação]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[1]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469455</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:33.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:33.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Implantação]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469455</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:35.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:35.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Criação Diagrama de Implantação]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187000]]></afterValue>
+                    <afterLabel><![CDATA[R1S2]]></afterLabel>
+                    <parentRef>469455</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:35.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:35.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Criação Diagrama de Implantação]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469455</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='11'>
+                <type>3</type>
+                <rank>3</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>1.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:15:58.0</plannedDate>
+                <acceptedDate>2021-08-30 02:13:18.0</acceptedDate>
+                <todoDate>2021-08-30 12:28:14.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:57.0</lastUpdated>
+                <dateCreated>2021-08-30 12:28:14.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 02:13:18.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:15:53.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Gerência de configuração do Sistema]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='1' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:28:14.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:28:14.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Gerência de configuração do Sistema]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469415</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:53.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:53.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Gerência de configuração do Sistema]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[1]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469415</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:53.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:53.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Gerência de configuração do Sistema]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469415</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:58.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:58.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Gerência de configuração do Sistema]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187000]]></afterValue>
+                    <afterLabel><![CDATA[R1S2]]></afterLabel>
+                    <parentRef>469415</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:15:58.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:15:58.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Gerência de configuração do Sistema]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469415</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+          <sprint id='187001'>
+            <state>1</state>
+            <endDate>2021-10-12 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>21.0</capacity>
+            <todoDate>2021-08-30 13:16:15.0</todoDate>
+            <doneDate />
+            <startDate>2021-09-29 00:00:00.0</startDate>
+            <orderNumber>3</orderNumber>
+            <lastUpdated>2021-08-30 13:28:19.0</lastUpdated>
+            <dateCreated>2021-08-30 13:16:15.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='12'>
+                <type>3</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>13.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:16:43.0</plannedDate>
+                <acceptedDate>2021-08-30 02:13:32.0</acceptedDate>
+                <todoDate>2021-08-30 12:28:21.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:05.0</lastUpdated>
+                <dateCreated>2021-08-30 12:28:21.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 02:13:32.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:16:38.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Modelagem BD]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='1' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:28:21.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:28:21.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Modelagem BD]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469416</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:16:38.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:16:38.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Modelagem BD]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[13]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469416</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:16:38.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:16:38.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Modelagem BD]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469416</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:16:43.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:16:43.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Modelagem BD]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187001]]></afterValue>
+                    <afterLabel><![CDATA[R1S3]]></afterLabel>
+                    <parentRef>469416</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:16:43.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:16:43.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Modelagem BD]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469416</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks>
+                  <task uid='14'>
+                    <type />
+                    <rank>1</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation>5.0</estimation>
+                    <todoDate>2021-08-30 12:28:21.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187001' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Modelagem Lógica - BD]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:28:21.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:28:21.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Modelagem Lógica - BD]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907529</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                  <task uid='15'>
+                    <type />
+                    <rank>2</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation />
+                    <todoDate>2021-08-30 12:28:21.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187001' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Modelagem Conceitual - BD]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:28:21.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:28:21.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Modelagem Conceitual - BD]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907530</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                  <task uid='16'>
+                    <type />
+                    <rank>3</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation />
+                    <todoDate>2021-08-30 12:28:21.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187001' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Modelagem Física - BD]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:28:21.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:28:21.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Modelagem Física - BD]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907531</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                </tasks>
+                <attachments />
+                <voters />
+              </story>
+              <story uid='13'>
+                <type>3</type>
+                <rank>2</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>8.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:17:35.0</plannedDate>
+                <acceptedDate>2021-08-30 02:16:00.0</acceptedDate>
+                <todoDate>2021-08-30 12:28:29.0</todoDate>
+                <lastUpdated>2021-08-30 13:28:19.0</lastUpdated>
+                <dateCreated>2021-08-30 12:28:29.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 02:16:00.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:17:13.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Design das telas]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='2' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:28:29.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:28:29.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Design das telas]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469417</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:17:13.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:17:13.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Design das telas]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[8]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469417</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:17:13.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:17:13.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Design das telas]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469417</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:17:20.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:17:20.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Design das telas]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187002]]></afterValue>
+                    <afterLabel><![CDATA[R1S4]]></afterLabel>
+                    <parentRef>469417</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:17:20.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:17:20.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Design das telas]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469417</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:17:35.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:17:35.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Design das telas]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187001]]></afterValue>
+                    <afterLabel><![CDATA[R1S3]]></afterLabel>
+                    <parentRef>469417</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+          <sprint id='187002'>
+            <state>1</state>
+            <endDate>2021-10-26 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>20.0</capacity>
+            <todoDate>2021-08-30 13:16:50.0</todoDate>
+            <doneDate />
+            <startDate>2021-10-13 00:00:00.0</startDate>
+            <orderNumber>4</orderNumber>
+            <lastUpdated>2021-08-30 13:28:15.0</lastUpdated>
+            <dateCreated>2021-08-30 13:16:50.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='14'>
+                <type>3</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>5.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:18:45.0</plannedDate>
+                <acceptedDate>2021-08-30 11:38:55.0</acceptedDate>
+                <todoDate>2021-08-30 12:28:37.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:11.0</lastUpdated>
+                <dateCreated>2021-08-30 12:28:37.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:38:55.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:18:03.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Formulário de cadastro]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='3' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:28:37.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:28:37.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Formulário de cadastro]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469418</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:18:03.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:18:03.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Formulário de cadastro]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[5]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469418</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:18:03.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:18:03.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Formulário de cadastro]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469418</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:18:10.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:18:10.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Formulário de cadastro]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187003]]></afterValue>
+                    <afterLabel><![CDATA[R1S5]]></afterLabel>
+                    <parentRef>469418</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:18:10.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:18:10.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Formulário de cadastro]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469418</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:18:45.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:18:45.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Formulário de cadastro]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187002]]></afterValue>
+                    <afterLabel><![CDATA[R1S4]]></afterLabel>
+                    <parentRef>469418</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='15'>
+                <type>3</type>
+                <rank>2</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>5.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:19:07.0</plannedDate>
+                <acceptedDate>2021-08-30 11:48:36.0</acceptedDate>
+                <todoDate>2021-08-30 12:28:55.0</todoDate>
+                <lastUpdated>2021-08-30 13:28:15.0</lastUpdated>
+                <dateCreated>2021-08-30 12:28:55.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:48:35.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:19:03.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Formulário de Login]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='3' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:28:55.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:28:55.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Formulário de Login]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469419</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:03.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:03.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Formulário de Login]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[5]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469419</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:03.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:03.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Formulário de Login]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469419</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:07.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:07.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Formulário de Login]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187002]]></afterValue>
+                    <afterLabel><![CDATA[R1S4]]></afterLabel>
+                    <parentRef>469419</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:07.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:07.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Formulário de Login]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469419</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='20'>
+                <type>3</type>
+                <rank>3</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>5.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:19:33.0</plannedDate>
+                <acceptedDate>2021-08-30 11:51:12.0</acceptedDate>
+                <todoDate>2021-08-30 12:29:39.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:49.0</lastUpdated>
+                <dateCreated>2021-08-30 12:29:39.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:51:12.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:19:29.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Rota de Cadastro]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[Criação da rota POST para realizar o cadastro no sistema]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='4' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:29:40.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:29:40.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Rota de Cadastro]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469425</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:29.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:29.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rota de Cadastro]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[5]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469425</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:29.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:29.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rota de Cadastro]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469425</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:33.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:33.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rota de Cadastro]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187002]]></afterValue>
+                    <afterLabel><![CDATA[R1S4]]></afterLabel>
+                    <parentRef>469425</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:33.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:33.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rota de Cadastro]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469425</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='21'>
+                <type>3</type>
+                <rank>4</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>5.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:19:46.0</plannedDate>
+                <acceptedDate>2021-08-30 11:52:13.0</acceptedDate>
+                <todoDate>2021-08-30 12:29:47.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:36.0</lastUpdated>
+                <dateCreated>2021-08-30 12:29:47.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:52:12.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:19:43.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Rota de Login]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[Criação da rota POST para realizar o login no sistema]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='4' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:29:47.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:29:47.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Rota de Login]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469426</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:43.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:43.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rota de Login]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[5]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469426</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:43.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:43.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rota de Login]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469426</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:46.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:46.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rota de Login]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187002]]></afterValue>
+                    <afterLabel><![CDATA[R1S4]]></afterLabel>
+                    <parentRef>469426</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:46.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:46.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rota de Login]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469426</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+          <sprint id='187003'>
+            <state>1</state>
+            <endDate>2021-11-09 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>11.0</capacity>
+            <todoDate>2021-08-30 13:16:53.0</todoDate>
+            <doneDate />
+            <startDate>2021-10-27 00:00:00.0</startDate>
+            <orderNumber>5</orderNumber>
+            <lastUpdated>2021-08-30 13:28:12.0</lastUpdated>
+            <dateCreated>2021-08-30 13:16:53.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='16'>
+                <type>3</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>3.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:20:01.0</plannedDate>
+                <acceptedDate>2021-08-30 11:49:54.0</acceptedDate>
+                <todoDate>2021-08-30 12:29:05.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:15.0</lastUpdated>
+                <dateCreated>2021-08-30 12:29:05.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:49:54.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:19:56.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Formulário Nova Postagem]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='3' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:29:05.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:29:05.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Formulário Nova Postagem]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469421</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:56.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:56.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Formulário Nova Postagem]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469421</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:19:56.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:19:56.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Formulário Nova Postagem]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469421</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:01.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:01.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Formulário Nova Postagem]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187003]]></afterValue>
+                    <afterLabel><![CDATA[R1S5]]></afterLabel>
+                    <parentRef>469421</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:01.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:01.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Formulário Nova Postagem]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469421</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='17'>
+                <type>3</type>
+                <rank>2</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>3.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:20:22.0</plannedDate>
+                <acceptedDate>2021-08-30 11:50:17.0</acceptedDate>
+                <todoDate>2021-08-30 12:29:12.0</todoDate>
+                <lastUpdated>2021-08-30 13:28:12.0</lastUpdated>
+                <dateCreated>2021-08-30 12:29:12.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:50:17.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:20:15.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Feed de Publicações]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='3' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:29:12.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:29:12.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Feed de Publicações]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469422</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:15.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:15.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Feed de Publicações]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469422</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:15.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:15.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Feed de Publicações]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469422</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:22.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:22.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Feed de Publicações]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187003]]></afterValue>
+                    <afterLabel><![CDATA[R1S5]]></afterLabel>
+                    <parentRef>469422</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:22.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:22.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Feed de Publicações]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469422</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='22'>
+                <type>3</type>
+                <rank>3</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>5.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:20:46.0</plannedDate>
+                <acceptedDate>2021-08-30 11:52:31.0</acceptedDate>
+                <todoDate>2021-08-30 12:29:59.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:45.0</lastUpdated>
+                <dateCreated>2021-08-30 12:29:59.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:52:31.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:20:40.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Rotas de postagem]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='4' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:29:59.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:29:59.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Rotas de postagem]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469427</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:40.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:40.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rotas de postagem]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[5]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469427</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:40.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:40.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rotas de postagem]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469427</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:46.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:46.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rotas de postagem]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187003]]></afterValue>
+                    <afterLabel><![CDATA[R1S5]]></afterLabel>
+                    <parentRef>469427</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:20:46.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:20:46.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rotas de postagem]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469427</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks>
+                  <task uid='17'>
+                    <type />
+                    <rank>1</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation />
+                    <todoDate>2021-08-30 12:29:59.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187003' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Listar Publicações para o feed]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[Criação da rota GET para listar as publicações para o feed.]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:29:59.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:29:59.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Listar Publicações para o feed]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907532</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                  <task uid='18'>
+                    <type />
+                    <rank>2</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation />
+                    <todoDate>2021-08-30 12:29:59.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187003' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Curtir Publicações]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[Criação da rota POST para realizar adicionar curtidas nas publicações.]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:29:59.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:29:59.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Curtir Publicações]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907533</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                  <task uid='19'>
+                    <type />
+                    <rank>3</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation />
+                    <todoDate>2021-08-30 12:29:59.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187003' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Retirar curtidas de Publicações]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[Criação da rota PUT para realizar retirar curtidas de publicações.]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:29:59.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:29:59.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Retirar curtidas de Publicações]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907534</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                  <task uid='20'>
+                    <type />
+                    <rank>4</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation />
+                    <todoDate>2021-08-30 12:29:59.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187003' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Exclusão de publicações]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[Criação da rota DELETE para realizar a exclusão de postagens.]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:29:59.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:29:59.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Exclusão de publicações]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907535</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                  <task uid='21'>
+                    <type />
+                    <rank>5</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation />
+                    <todoDate>2021-08-30 12:29:59.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187003' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Comentar Publicações]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[Criação da rota POST para realizar comentários nas publicações]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:29:59.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:29:59.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Comentar Publicações]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907536</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                  <task uid='22'>
+                    <type />
+                    <rank>6</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation />
+                    <todoDate>2021-08-30 12:29:59.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187003' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Cadastro de Publicações]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[Criação da rota POST para realizar o cadastro de publicações no sistema]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:29:59.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:29:59.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Cadastro de Publicações]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907537</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                  <task uid='23'>
+                    <type />
+                    <rank>7</rank>
+                    <color>#ffcc01</color>
+                    <state>0</state>
+                    <blocked>false</blocked>
+                    <spent />
+                    <initial />
+                    <doneDate />
+                    <estimation />
+                    <todoDate>2021-08-30 12:29:59.0</todoDate>
+                    <inProgressDate />
+                    <creator uid='be23e2881407d35e22b75938f123857f' />
+                    <sprint id='187003' />
+                    <tags><![CDATA[]]></tags>
+                    <name><![CDATA[Compartilhar Publicações]]></name>
+                    <notes><![CDATA[]]></notes>
+                    <description><![CDATA[Criação da rota POST para compartilhar publicações.]]></description>
+                    <attachments />
+                    <comments />
+                    <activities>
+                      <activity>
+                        <poster uid='be23e2881407d35e22b75938f123857f' />
+                        <dateCreated>2021-08-30 12:29:59.0</dateCreated>
+                        <lastUpdated>2021-08-30 12:29:59.0</lastUpdated>
+                        <code>taskSave</code>
+                        <label><![CDATA[Compartilhar Publicações]]></label>
+                        <field><![CDATA[null]]></field>
+                        <beforeValue><![CDATA[]]></beforeValue>
+                        <afterValue><![CDATA[]]></afterValue>
+                        <afterLabel><![CDATA[]]></afterLabel>
+                        <parentRef>907538</parentRef>
+                        <parentType>task</parentType>
+                      </activity>
+                    </activities>
+                  </task>
+                </tasks>
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+          <sprint id='187004'>
+            <state>1</state>
+            <endDate>2021-11-23 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>12.0</capacity>
+            <todoDate>2021-08-30 13:20:52.0</todoDate>
+            <doneDate />
+            <startDate>2021-11-10 00:00:00.0</startDate>
+            <orderNumber>6</orderNumber>
+            <lastUpdated>2021-08-30 13:28:07.0</lastUpdated>
+            <dateCreated>2021-08-30 13:20:52.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='18'>
+                <type>3</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>3.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:21:08.0</plannedDate>
+                <acceptedDate>2021-08-30 11:50:33.0</acceptedDate>
+                <todoDate>2021-08-30 12:29:19.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:19.0</lastUpdated>
+                <dateCreated>2021-08-30 12:29:19.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:50:33.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:21:05.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Visualizar publicação/vaga especifica]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='3' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:29:19.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:29:19.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Visualizar publicação/vaga especifica]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469423</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:05.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:05.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Visualizar publicação/vaga especifica]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469423</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:05.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:05.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Visualizar publicação/vaga especifica]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469423</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:08.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:08.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Visualizar publicação/vaga especifica]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187004]]></afterValue>
+                    <afterLabel><![CDATA[R1S6]]></afterLabel>
+                    <parentRef>469423</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:08.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:08.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Visualizar publicação/vaga especifica]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469423</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='23'>
+                <type>3</type>
+                <rank>2</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>3.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:21:24.0</plannedDate>
+                <acceptedDate>2021-08-30 11:53:04.0</acceptedDate>
+                <todoDate>2021-08-30 12:30:06.0</todoDate>
+                <lastUpdated>2021-08-30 13:28:07.0</lastUpdated>
+                <dateCreated>2021-08-30 12:30:06.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:53:04.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:21:19.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Rotas de Vagas]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='4' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:30:06.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:30:06.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Rotas de Vagas]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469428</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:19.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:19.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rotas de Vagas]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469428</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:19.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:19.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rotas de Vagas]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469428</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:24.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:24.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rotas de Vagas]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187004]]></afterValue>
+                    <afterLabel><![CDATA[R1S6]]></afterLabel>
+                    <parentRef>469428</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:24.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:24.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rotas de Vagas]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469428</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='19'>
+                <type>3</type>
+                <rank>3</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>3.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:21:38.0</plannedDate>
+                <acceptedDate>2021-08-30 11:50:48.0</acceptedDate>
+                <todoDate>2021-08-30 12:29:26.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:53.0</lastUpdated>
+                <dateCreated>2021-08-30 12:29:26.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:50:48.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:21:32.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Meu Perfil - configs]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='3' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:29:26.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:29:26.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Meu Perfil - configs]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469424</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:32.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:32.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Meu Perfil - configs]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469424</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:32.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:32.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Meu Perfil - configs]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469424</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:38.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:38.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Meu Perfil - configs]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187004]]></afterValue>
+                    <afterLabel><![CDATA[R1S6]]></afterLabel>
+                    <parentRef>469424</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:38.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:38.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Meu Perfil - configs]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469424</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='24'>
+                <type>3</type>
+                <rank>4</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>3.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:21:52.0</plannedDate>
+                <acceptedDate>2021-08-30 11:53:30.0</acceptedDate>
+                <todoDate>2021-08-30 12:30:14.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:30.0</lastUpdated>
+                <dateCreated>2021-08-30 12:30:14.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:53:30.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:21:48.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Rotas do perfil]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='4' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:30:14.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:30:14.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Rotas do perfil]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469429</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:48.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:48.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rotas do perfil]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469429</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:48.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:48.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rotas do perfil]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469429</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:52.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:52.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Rotas do perfil]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187004]]></afterValue>
+                    <afterLabel><![CDATA[R1S6]]></afterLabel>
+                    <parentRef>469429</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:21:52.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:21:52.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Rotas do perfil]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469429</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+          <sprint id='187005'>
+            <state>1</state>
+            <endDate>2021-12-07 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>13.0</capacity>
+            <todoDate>2021-08-30 13:22:23.0</todoDate>
+            <doneDate />
+            <startDate>2021-11-24 00:00:00.0</startDate>
+            <orderNumber>7</orderNumber>
+            <lastUpdated>2021-08-30 13:28:03.0</lastUpdated>
+            <dateCreated>2021-08-30 13:22:23.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='25'>
+                <type>3</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>5.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:22:40.0</plannedDate>
+                <acceptedDate>2021-08-30 11:53:59.0</acceptedDate>
+                <todoDate>2021-08-30 12:30:21.0</todoDate>
+                <lastUpdated>2021-08-30 13:27:23.0</lastUpdated>
+                <dateCreated>2021-08-30 12:30:21.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 11:53:59.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:22:35.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Integração com Banco de Dados]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='4' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:30:21.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:30:21.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Integração com Banco de Dados]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469430</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:22:35.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:22:35.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Integração com Banco de Dados]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[5]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469430</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:22:35.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:22:35.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Integração com Banco de Dados]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469430</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:22:40.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:22:40.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Integração com Banco de Dados]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187005]]></afterValue>
+                    <afterLabel><![CDATA[R1S7]]></afterLabel>
+                    <parentRef>469430</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:22:40.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:22:40.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Integração com Banco de Dados]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469430</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+              <story uid='27'>
+                <type>2</type>
+                <rank>2</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>8.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:22:53.0</plannedDate>
+                <acceptedDate>2021-08-30 12:07:41.0</acceptedDate>
+                <todoDate>2021-08-30 12:30:37.0</todoDate>
+                <lastUpdated>2021-08-30 13:28:03.0</lastUpdated>
+                <dateCreated>2021-08-30 12:30:37.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 12:07:41.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:22:49.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Testes Frontend]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='5' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:30:37.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:30:37.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Testes Frontend]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469433</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:22:49.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:22:49.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Testes Frontend]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[8]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469433</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:22:49.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:22:49.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Testes Frontend]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469433</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:22:53.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:22:53.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Testes Frontend]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187005]]></afterValue>
+                    <afterLabel><![CDATA[R1S7]]></afterLabel>
+                    <parentRef>469433</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:22:53.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:22:53.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Testes Frontend]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469433</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+          <sprint id='187006'>
+            <state>1</state>
+            <endDate>2021-12-21 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>5.0</capacity>
+            <todoDate>2021-08-30 13:23:08.0</todoDate>
+            <doneDate />
+            <startDate>2021-12-08 00:00:00.0</startDate>
+            <orderNumber>8</orderNumber>
+            <lastUpdated>2021-08-30 13:28:31.0</lastUpdated>
+            <dateCreated>2021-08-30 13:23:08.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='26'>
+                <type>2</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>5.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:24:06.0</plannedDate>
+                <acceptedDate>2021-08-30 12:07:33.0</acceptedDate>
+                <todoDate>2021-08-30 12:30:30.0</todoDate>
+                <lastUpdated>2021-08-30 13:28:31.0</lastUpdated>
+                <dateCreated>2021-08-30 12:30:30.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 12:07:33.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:24:00.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Testes Backend]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='5' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:30:30.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:30:30.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Testes Backend]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469432</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:24:00.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:24:00.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Testes Backend]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[5]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469432</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:24:00.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:24:00.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Testes Backend]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469432</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:24:06.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:24:06.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Testes Backend]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187006]]></afterValue>
+                    <afterLabel><![CDATA[R1S8]]></afterLabel>
+                    <parentRef>469432</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:24:06.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:24:06.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Testes Backend]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469432</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+          <sprint id='187007'>
+            <state>1</state>
+            <endDate>2022-01-04 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>1.0</capacity>
+            <todoDate>2021-08-30 13:24:20.0</todoDate>
+            <doneDate />
+            <startDate>2021-12-22 00:00:00.0</startDate>
+            <orderNumber>9</orderNumber>
+            <lastUpdated>2021-08-30 13:24:48.0</lastUpdated>
+            <dateCreated>2021-08-30 13:24:20.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='28'>
+                <type>0</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>1.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:24:48.0</plannedDate>
+                <acceptedDate>2021-08-30 13:23:40.0</acceptedDate>
+                <todoDate>2021-08-30 12:30:54.0</todoDate>
+                <lastUpdated>2021-08-30 13:24:48.0</lastUpdated>
+                <dateCreated>2021-08-30 12:30:54.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 12:08:05.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:24:42.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Apresentação para o cliente]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='6' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:30:54.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:30:54.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Apresentação para o cliente]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469435</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:23:40.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:23:40.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Apresentação para o cliente]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[1]]></beforeValue>
+                    <afterValue><![CDATA[2]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469435</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:24:42.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:24:42.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Apresentação para o cliente]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[1]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469435</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:24:42.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:24:42.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Apresentação para o cliente]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469435</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:24:48.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:24:48.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Apresentação para o cliente]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187007]]></afterValue>
+                    <afterLabel><![CDATA[R1S9]]></afterLabel>
+                    <parentRef>469435</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:24:48.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:24:48.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Apresentação para o cliente]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469435</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+          <sprint id='187008'>
+            <state>1</state>
+            <endDate>2022-01-18 00:00:00.0</endDate>
+            <velocity>0.0</velocity>
+            <capacity>3.0</capacity>
+            <todoDate>2021-08-30 13:24:27.0</todoDate>
+            <doneDate />
+            <startDate>2022-01-05 00:00:00.0</startDate>
+            <orderNumber>10</orderNumber>
+            <lastUpdated>2021-08-30 13:28:27.0</lastUpdated>
+            <dateCreated>2021-08-30 13:24:27.0</dateCreated>
+            <dailyWorkTime>8.0</dailyWorkTime>
+            <inProgressDate />
+            <deliveredVersion />
+            <initialRemainingTime />
+            <goal><![CDATA[]]></goal>
+            <description><![CDATA[]]></description>
+            <retrospective><![CDATA[]]></retrospective>
+            <doneDefinition><![CDATA[]]></doneDefinition>
+            <attachments />
+            <stories>
+              <story uid='29'>
+                <type>3</type>
+                <rank>1</rank>
+                <state>4</state>
+                <value>0</value>
+                <effort>3.00</effort>
+                <doneDate />
+                <plannedDate>2021-08-30 13:25:09.0</plannedDate>
+                <acceptedDate>2021-08-30 13:23:44.0</acceptedDate>
+                <todoDate>2021-08-30 12:31:01.0</todoDate>
+                <lastUpdated>2021-08-30 13:28:27.0</lastUpdated>
+                <dateCreated>2021-08-30 12:31:01.0</dateCreated>
+                <affectVersion />
+                <frozenDate />
+                <suggestedDate>2021-08-30 12:08:17.0</suggestedDate>
+                <estimatedDate>2021-08-30 13:25:02.0</estimatedDate>
+                <inProgressDate />
+                <inReviewDate />
+                <tags><![CDATA[]]></tags>
+                <name><![CDATA[Publicação do sistema]]></name>
+                <notes><![CDATA[]]></notes>
+                <origin><![CDATA[LinkJob_ts]]></origin>
+                <description><![CDATA[]]></description>
+                <creator uid='be23e2881407d35e22b75938f123857f' />
+                <feature uid='6' />
+                <comments />
+                <activities>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 12:31:01.0</dateCreated>
+                    <lastUpdated>2021-08-30 12:31:01.0</lastUpdated>
+                    <code>save</code>
+                    <label><![CDATA[Publicação do sistema]]></label>
+                    <field><![CDATA[null]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469436</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:23:44.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:23:44.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Publicação do sistema]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[1]]></beforeValue>
+                    <afterValue><![CDATA[2]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469436</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:25:02.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:25:02.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Publicação do sistema]]></label>
+                    <field><![CDATA[effort]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469436</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:25:02.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:25:02.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Publicação do sistema]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[2]]></beforeValue>
+                    <afterValue><![CDATA[3]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469436</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:25:09.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:25:09.0</lastUpdated>
+                    <code>update</code>
+                    <label><![CDATA[Publicação do sistema]]></label>
+                    <field><![CDATA[parentSprint]]></field>
+                    <beforeValue><![CDATA[]]></beforeValue>
+                    <afterValue><![CDATA[187008]]></afterValue>
+                    <afterLabel><![CDATA[R1S10]]></afterLabel>
+                    <parentRef>469436</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                  <activity>
+                    <poster uid='be23e2881407d35e22b75938f123857f' />
+                    <dateCreated>2021-08-30 13:25:09.0</dateCreated>
+                    <lastUpdated>2021-08-30 13:25:09.0</lastUpdated>
+                    <code>updateState</code>
+                    <label><![CDATA[Publicação do sistema]]></label>
+                    <field><![CDATA[state]]></field>
+                    <beforeValue><![CDATA[3]]></beforeValue>
+                    <afterValue><![CDATA[4]]></afterValue>
+                    <afterLabel><![CDATA[]]></afterLabel>
+                    <parentRef>469436</parentRef>
+                    <parentType>story</parentType>
+                  </activity>
+                </activities>
+                <acceptanceTests />
+                <actors />
+                <followers>
+                  <user uid='be23e2881407d35e22b75938f123857f' />
+                </followers>
+                <tasks />
+                <attachments />
+                <voters />
+              </story>
+            </stories>
+            <tasks />
+            <cliches />
+            <availabilities />
+          </sprint>
+        </sprints>
+        <features />
+        <attachments />
+        <cliches />
+      </release>
+    </releases>
+    <attachments />
+    <cliches />
+    <activities>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 12:27:14.0</dateCreated>
+        <lastUpdated>2021-08-30 12:27:14.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Criar Diagramas]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 12:27:34.0</dateCreated>
+        <lastUpdated>2021-08-30 12:27:34.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Gerência de configuração do Sistema]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 12:27:39.0</dateCreated>
+        <lastUpdated>2021-08-30 12:27:39.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Modelagem BD]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 12:27:43.0</dateCreated>
+        <lastUpdated>2021-08-30 12:27:43.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Design das telas]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 12:27:46.0</dateCreated>
+        <lastUpdated>2021-08-30 12:27:46.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Formulário de cadastro]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 12:27:50.0</dateCreated>
+        <lastUpdated>2021-08-30 12:27:50.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Formulário de Login]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 12:27:54.0</dateCreated>
+        <lastUpdated>2021-08-30 12:27:54.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Feed de Publicações]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 12:27:57.0</dateCreated>
+        <lastUpdated>2021-08-30 12:27:57.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Visualizar publicação/vaga especifica]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 12:28:02.0</dateCreated>
+        <lastUpdated>2021-08-30 12:28:02.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Meu Perfil - configs]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+      <activity>
+        <poster uid='be23e2881407d35e22b75938f123857f' />
+        <dateCreated>2021-08-30 13:11:09.0</dateCreated>
+        <lastUpdated>2021-08-30 13:11:09.0</lastUpdated>
+        <code>delete</code>
+        <label><![CDATA[Criar Diagramas]]></label>
+        <field><![CDATA[null]]></field>
+        <beforeValue><![CDATA[]]></beforeValue>
+        <afterValue><![CDATA[]]></afterValue>
+        <afterLabel><![CDATA[]]></afterLabel>
+        <parentRef>186988</parentRef>
+        <parentType>project</parentType>
+      </activity>
+    </activities>
+    <simpleProjectApps />
+    <timeBoxNotesTemplates>
+      <timeBoxNotesTemplate>62600
+        <name><![CDATA[HTML Release Note Template]]></name>
+        <header><![CDATA[<h1> My HTML release Note </h1>]]></header>
+        <footer><![CDATA[]]></footer>
+        <configsData><![CDATA[[{"header":"<h2>New Features<\u002fh2><ul>","footer":"<\u002ful>","storyType":0,"lineTemplate":"<li><a href=\"${baseUrl}-${story.id}\">${story.name}<\u002fa><\u002fli>"},{"header":"<h2>Bug Fixes<\u002fh2><ul>","footer":"<\u002ful>","storyType":2,"lineTemplate":"<li><a href=\"${baseUrl}-${story.id}\">${story.name}<\u002fa><\u002fli>"}]]]></configsData>
+      </timeBoxNotesTemplate>
+      <timeBoxNotesTemplate>62601
+        <name><![CDATA[Markdown Release Note Template]]></name>
+        <header><![CDATA[# My Markdown release Note]]></header>
+        <footer><![CDATA[]]></footer>
+        <configsData><![CDATA[[{"header":"## New Features","footer":"","storyType":0,"lineTemplate":"* [${story.name}](${baseUrl}-${story.id})"},{"header":"## Bug Fixes","footer":"","storyType":2,"lineTemplate":"* [${story.name}](${baseUrl}-${story.id})"}]]]></configsData>
+      </timeBoxNotesTemplate>
+    </timeBoxNotesTemplates>
+    <hooks />
+    <backlogs />
+    <builds />
+    <btConfigs />
+    <availabilityPreferences>
+      <enable>false</enable>
+      <displayLatitude>true</displayLatitude>
+      <defaultAvailability>1.0</defaultAvailability>
+      <highLr>40</highLr>
+      <mediumLr>30</mediumLr>
+      <lowLr>20</lowLr>
+    </availabilityPreferences>
+    <templates>
+      <template>
+        <name><![CDATA[Bug]]></name>
+        <itemClass>org.icescrum.core.domain.Story</itemClass>
+        <serializedData><![CDATA[{"tags":[],"type":2}]]></serializedData>
+      </template>
+    </templates>
+    <storyWorkflowStates>
+      <storyWorkflowState id='127953'>
+        <code>-1</code>
+        <enabled>false</enabled>
+        <name><![CDATA[]]></name>
+      </storyWorkflowState>
+      <storyWorkflowState id='127954'>
+        <code>1</code>
+        <enabled>true</enabled>
+        <name><![CDATA[]]></name>
+      </storyWorkflowState>
+      <storyWorkflowState id='127955'>
+        <code>2</code>
+        <enabled>true</enabled>
+        <name><![CDATA[]]></name>
+      </storyWorkflowState>
+      <storyWorkflowState id='127956'>
+        <code>3</code>
+        <enabled>true</enabled>
+        <name><![CDATA[]]></name>
+      </storyWorkflowState>
+      <storyWorkflowState id='127957'>
+        <code>4</code>
+        <enabled>true</enabled>
+        <name><![CDATA[]]></name>
+      </storyWorkflowState>
+      <storyWorkflowState id='127958'>
+        <code>5</code>
+        <enabled>true</enabled>
+        <name><![CDATA[]]></name>
+      </storyWorkflowState>
+      <storyWorkflowState id='127959'>
+        <code>6</code>
+        <enabled>false</enabled>
+        <name><![CDATA[]]></name>
+      </storyWorkflowState>
+      <storyWorkflowState id='127960'>
+        <code>7</code>
+        <enabled>true</enabled>
+        <name><![CDATA[]]></name>
+      </storyWorkflowState>
+    </storyWorkflowStates>
+    <messagingPreferences>
+      <url_slack />
+      <url_mattermost />
+      <url_discord />
+    </messagingPreferences>
+    <shareLinks />
+    <roadmaps>
+      <roadmap>
+        <name><![CDATA[is.roadmap.ui.default.live]]></name>
+        <code>live</code>
+        <type>1</type>
+        <events />
+        <notes><![CDATA[]]></notes>
+        <data><![CDATA[]]></data>
+        <snapshotDate />
+      </roadmap>
+    </roadmaps>
+    <featureMapConfig>
+      <token><![CDATA[null]]></token>
+      <uniqueId><![CDATA[null]]></uniqueId>
+      <cleanName><![CDATA[null]]></cleanName>
+      <ownerName><![CDATA[null]]></ownerName>
+      <serverURL><![CDATA[null]]></serverURL>
+    </featureMapConfig>
+    <labelLists />
+    <widgets />
+  </project>
+</export>
